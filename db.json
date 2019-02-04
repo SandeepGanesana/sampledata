@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "sandeep",
+      "email": "sandeep.ganesana@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "ganesana",
+      "email": "ganesana@gmail.com",
+      "password": "password1"
+    }
+  ],
+  "employees":[ {
+  "id": 1,
+  "name": "Darsie",
+  "email": "dspeller0@yandex.ru",
+  "language": "Hungarian"
+}, {
+  "id": 2,
+  "name": "Brigg",
+  "email": "bdoak1@woothemes.com",
+  "language": "Telugu"
+}, {
+  "id": 3,
+  "name": "Zachariah",
+  "email": "zwhiffen2@networkadvertising.org",
+  "language": "French"
+}, {
+  "id": 4,
+  "name": "Inge",
+  "email": "ibabidge3@house.gov",
+  "language": "Māori"
+}, {
+  "id": 5,
+  "name": "Ardene",
+  "email": "ahungerford4@soundcloud.com",
+  "language": "Lithuanian"
+}]
+}
