@@ -2,84 +2,54 @@
   "user": [
     {
   "id": 1,
-  "first_name": "Dahlia",
-  "last_name": "Guiver",
-  "email": "dguiver0@joomla.org",
-  "gender": "Female",
-  "dob": "1975-07-21 12:58:05",
-  "contact_number": "432 615 4321",
-  "password": "cjYELVzbqo",
-  "location": "Devpoint"
+  "first_name": "Isidor",
+  "last_name": "de Merida",
+  "email": "idemerida0@mozilla.org",
+  "gender": "Male",
+  "contact_number": "5961885791",
+  "location": "Hengfeng",
+  "password": "bHRUEo",
+  "dob": "7/11/1951"
 }, {
   "id": 2,
-  "first_name": "Rafferty",
-  "last_name": "Chown",
-  "email": "rchown1@pbs.org",
-  "gender": "Male",
-  "dob": "1966-04-01 22:56:40",
-  "contact_number": "991 140 4702",
-  "password": "LjCpIeGSD0WG",
-  "location": "Avavee"
+  "first_name": "Biddie",
+  "last_name": "Mannion",
+  "email": "bmannion1@sourceforge.net",
+  "gender": "Female",
+  "contact_number": "5206126805",
+  "location": "Tucson",
+  "password": "zySA9eW",
+  "dob": "5/24/1979"
 }, {
   "id": 3,
-  "first_name": "Agosto",
-  "last_name": "Ciotti",
-  "email": "aciotti2@youku.com",
-  "gender": "Male",
-  "dob": "1958-07-10 08:35:25",
-  "contact_number": "957 451 9201",
-  "password": "xkPNW0eaHKt",
-  "location": "Yodoo"
+  "first_name": "Florinda",
+  "last_name": "Wilkison",
+  "email": "fwilkison2@simplemachines.org",
+  "gender": "Female",
+  "contact_number": "4294540283",
+  "location": "Stockholm",
+  "password": "WGyEqWZygNA",
+  "dob": "12/28/1984"
 }, {
   "id": 4,
-  "first_name": "Lindsay",
-  "last_name": "Bartels-Ellis",
-  "email": "lbartelsellis3@icio.us",
-  "gender": "Female",
-  "dob": "1984-12-08 02:37:00",
-  "contact_number": "596 453 7995",
-  "password": "o2Ixh0",
-  "location": "Babbleopia"
+  "first_name": "Tybalt",
+  "last_name": "Crocket",
+  "email": "tcrocket3@who.int",
+  "gender": "Male",
+  "contact_number": "5056208481",
+  "location": "Ashikaga",
+  "password": "0xtIyjB66R8f",
+  "dob": "2/6/1971"
 }, {
   "id": 5,
-  "first_name": "Vernen",
-  "last_name": "Whiten",
-  "email": "vwhiten4@wunderground.com",
+  "first_name": "Marcel",
+  "last_name": "Lammie",
+  "email": "mlammie4@shutterfly.com",
   "gender": "Male",
-  "dob": "1969-11-19 16:35:56",
-  "contact_number": "425 343 2860",
-  "password": "8D8gs3",
-  "location": "Skimia"
-}, {
-  "id": 6,
-  "first_name": "Ellene",
-  "last_name": "Plevin",
-  "email": "eplevin5@cbsnews.com",
-  "gender": "Female",
-  "dob": "1978-08-22 05:32:37",
-  "contact_number": "283 226 3778",
-  "password": "p8MqWQ3SG",
-  "location": "Livepath"
-}, {
-  "id": 7,
-  "first_name": "Morty",
-  "last_name": "Leacock",
-  "email": "mleacock6@etsy.com",
-  "gender": "Male",
-  "dob": "1961-05-17 13:08:45",
-  "contact_number": "843 481 9129",
-  "password": "Qq04Q9BJ",
-  "location": "Kazu"
-}, {
-  "id": 8,
-  "first_name": "Shannon",
-  "last_name": "Arro",
-  "email": "sarro7@macromedia.com",
-  "gender": "Female",
-  "dob": "1962-02-13 13:27:31",
-  "contact_number": "983 357 4671",
-  "password": "ZrCe4uAXAW",
-  "location": "Voonyx"
+  "contact_number": "9689127749",
+  "location": "Porto Martins",
+  "password": "ZrD770c39oT",
+  "dob": "7/18/1994"
 }
   ],
   "employees":[{
