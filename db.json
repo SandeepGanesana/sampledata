@@ -80,6 +80,7 @@
   "pluralsight": [
 {
     "productId": 1,
+    "id": 1,
     "productName": "Leaf Rake",
     "productCode": "GDN-0011",
     "releaseDate": "March 19, 2016",
@@ -90,6 +91,7 @@
   },
   {
     "productId": 2,
+    "id": 2,
     "productName": "Garden Cart",
     "productCode": "GDN-0023",
     "releaseDate": "March 18, 2016",
@@ -100,6 +102,7 @@
   },
     {
     "productId": 3,
+     "id": 3,
     "productName": "Hammer",
     "productCode": "TBX-0048",
     "releaseDate": "May 21, 2016",
@@ -110,6 +113,7 @@
   },
   {
     "productId": 8,
+    "id": 8,
     "productName": "Saw",
     "productCode": "TBX-0022",
     "releaseDate": "May 15, 2016",
@@ -120,6 +124,7 @@
   },
   {
     "productId": 10,
+    "id": 10,
     "productName": "Video Game Controller",
     "productCode": "GMG-0042",
     "releaseDate": "October 15, 2015",
