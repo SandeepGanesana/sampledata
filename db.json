@@ -22,39 +22,6 @@
   "password": "F5iJ0S",
   "dob": "10/4/1997",
   "profile_image": ""
-}, {
-  "id": 3,
-  "first_name": "Jessey",
-  "last_name": "Holburn",
-  "email": "jholburn2@elpais.com",
-  "gender": "Male",
-  "contact_number": "8011753588",
-  "location": "Lindome",
-  "password": "UzCIazXpcON",
-  "dob": "10/25/1996",
-  "profile_image": "http://dummyimage.com/117x140.jpg/ff4444/ffffff"
-}, {
-  "id": 4,
-  "first_name": "Herold",
-  "last_name": "Collens",
-  "email": "hcollens3@blogs.com",
-  "gender": "Male",
-  "contact_number": "4354998227",
-  "location": "Dampek",
-  "password": "5OHKV8",
-  "dob": "7/5/1996",
-  "profile_image": "http://dummyimage.com/142x131.jpg/cc0000/ffffff"
-}, {
-  "id": 5,
-  "first_name": "Walliw",
-  "last_name": "Satch",
-  "email": "wsatch4@bravesites.com",
-  "gender": "Female",
-  "contact_number": "8094325535",
-  "location": "Pombal",
-  "password": "kOhx2a",
-  "dob": "6/14/1989",
-  "profile_image": "http://dummyimage.com/139x110.png/5fa2dd/ffffff"
 }
   ],
   "employees":[{
@@ -77,20 +44,6 @@
   "details": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
   "imagesrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIjSURBVDjLY/j//z8DJZiBqgb4dN1jDpnycL5Xx111z7a7/JVrnn8Aibs13DKrXv38t0/b3XkEXeDVdjetZOWzJx7Nd4y82+5McKm9pVm56tnPgK67a4n2glvjraicRU/vudTc5AzsurcmdOKDg3i9YGdnx52VlVXa2tr6bt68ef9ramoeJqXnXwHJ5eTkSAD5d0HiIHmQOpB6uAFGRkZsPj4+XRMnTvz/4sWL/3fv3v1/8ODB/42NjfdACqqrqw/dvHnzB0j8yJEj/0HqQOpB+sAGGBoa+hUXF3+4evXqu4iIiG3e3t5/UlNT/0+aNCkPpCA/P/8/iA8SB8mvWLHiIUg9SB/MBV1NTU3fJ0+enA5U+Mne3p5j7969HOfOneMAKTh06BDH2rVrOYDiakD5JyB1IPUgfWADdHV1M9PT099PmzatJCgoaKejo+MvNze3/4GBgf9BCoC0PogPEgfJg9SB1IP0gQ3QBAJfX9/rvb2971etWvV23bp1/6dPn/6/sLAQbEBFRQWYDxIHyYPUgdSD9IENUFNTYwY6z8DLy+t+SkrKl+zs7O9A/DM8PDwOpCAhOfc6kP8JJA6SB6kDqQfpw5kOPKtvHHTIu7JGL/wMZ0DzrXvaIaejiM4LTgVX1yZOuvdTN+yMplHk+QmaIaeNAhpuPlEPPJFG0ACr9Ivz4ife+60TesYMxA9tu/UBqJFfPeCEulHk2fmqfseZqZ4bAf27e9aCOQHGAAAAAElFTkSuQmCC",
   "price": 24,
-  "quantity": 1
-}, {
-  "id": 4,
-  "name": "Outdoors",
-  "details": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-  "imagesrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJaSURBVDjLpVPNi1JRFP89v2f8RHHGaqOCJFNuohki+oBxE7Sp1oFQLXPXbqDFUG1btOgvyIKBoFmUixSJqERIzbFJ05lRpHn6xoYcP0af+nrnlmKBqzlwOPe+d3/nd37n3MtJkoSjmAJHNNVokcvlIoPBYFl29Pt9iKI49l6vN/Zut0sxGggE/ITjSIIMvqzRaGJ2u50d+t8mZarVasRiMZRKJX8wGIyyCmTG+xaLBTzPQ6vVjkGTQFpXKhWYTCa4XC4iXZE/R7lMJsPYbTYbGo3GP+WSFAJyHAelUsnYjUYj9Ho9wuEwCoWCX0XsVDpppUM6nY75iL3T6eDt86c4TL3E4VDeW0/h2t1V+Hw+ZLPZFRUxtVotCILAGkTA4XAIaibFr58i6Hx5hYEkQuKUaJYTePbkAW7cuceqpATLxEQbAsmSWMkKxZ8J86kI5ubdsJmNpBtmxzHUhTzMci8IqyJW0kpOCcgpAbGTGRxO3Axch35Gh4P6LlQGG16vr0P8O2qWYAQkkNfrZZGc5HzYrWEzGceZpSWYrHPY2cojJehwUv4/TkAToASj0Y36kE6nsbVdRHRmAfG195hVA8WDWTQlLRKJBKuaC4VCb2QtVyZuGYtCrcbGxVeraLfbOHf+AuYdDqy9CLFR0kj39oRv3LTHtPHw7DZ//KrzXVmD5q86qnIiYqSLptbqcem0HYvix/7Ux2SwnYjv72RQrvyA1WqF2+1mYI/HA3EwRHnzM/QmY0o1LYFkdd7mftYfFQvfbzX3qxflSg0kLZlMDip8fWNh0f6YszjyvwFmK4mzFto0SwAAAABJRU5ErkJggg==",
-  "price": 62,
-  "quantity": 1
-}, {
-  "id": 5,
-  "name": "Outdoors",
-  "details": "In congue. Etiam justo. Etiam pretium iaculis justo.",
-  "imagesrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJvSURBVDjLhZNNSFRRFIC/N++9eWMzhkl/ZJqFMQMRFvTvImkXSdKiVRAURBRRW1eZA9EqaNOiFlZEtQxKyrJwUS0K+qEQzaTE/AtLHR3HmffuvafFNINDWGdz7z2c7+Nyzr2WiFAIffaMBDW1+B0diAgYgxiDiCDG4DU1QfcLos+fWAXGYUGIUsXiAliUFER+sBAhVCIIVB7QGtEat1oTbcwVz2LMfwR+gPg+oY0bEa3x6sHdUoVdniMUj0M2i/j+PwVJa2QUu7YWp34D7mqNWdNApD6Ks24dpvcL4gfJRQXevbutjI4lGRzCS9iYukPo5dvxVqWQvn6k/2uyoudd60LGEhG43VBGyI4j2ADZ7vDJ8DZ9Img4hw4cvO/3UZ1vH3p7lrWRLwGVneD4y6G84NaOYSoTVYIFIiAGvXI3OWctJv0TW03jZb5gZSfzl9YBpMcIzUwdzQsuVR9EyR3TeCqm6w5jZiZQMz8xsxOYzDTi50AMVngJNgrnUweRbwMPiLpHrOJDOl9Vh6HD7GyO52qa0VPj6MwUJpNC5mYQS/DUJLH3zzRp1cqN8YulTUyODBBzt4X6Ou870z2I8ZHsHJLLYNQ8jusQ6+2exJf9BfivKdAymKZiaVdodhBRAagAjIbgzxp20lwb6Vp0jADYkQO6IpHfuoqInSJUVoE2HrpyRQ1tic2LC9p3lSHWPh2rJfL1MeVP2weWvHp8s3ziNZ49i1q6HrR1YHGBNnt1dG2Z++gC4TdvrqNkK1eHj7ljQ/ujHx6NyPw8BFIiKPmNpKar7P7xb/zyT9P+o7OYvzzYSUt8U+TzxytodixEfgN3CFlQMNAcMgAAAABJRU5ErkJggg==",
-  "price": 59,
   "quantity": 1
 }],
   "products":[
@@ -122,17 +75,9 @@
   "imagesrc": "http://dummyimage.com/178x133.png/ff4444/ffffff",
   "price": 73,
   "quantity": 1
-}, {
-  "id": 5,
-  "name": "Movies",
-  "details": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
-  "imagesrc": "http://dummyimage.com/106x162.png/5fa2dd/ffffff",
-  "price": 37,
-  "quantity": 1
-}  
+}
 ],
   "plural-sight": [
-  [
   {
     "productId": 1,
     "productName": "Leaf Rake",
@@ -184,5 +129,4 @@
     "imageUrl": "https://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
   }
 ] 
-]
 }
